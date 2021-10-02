@@ -6,3 +6,7 @@
 
 <p align="center"> <img src="https://github.com/DarlanNoetzold/RegressaoSoftmax/blob/main/RegSoft01.jpg" />
 <p align="center"> <img src="https://github.com/DarlanNoetzold/RegressaoSoftmax/blob/main/RegSoft02.jpg" />
+
+  ---
+  
+  ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
